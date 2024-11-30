@@ -1,0 +1,3 @@
+comando para instalar todas as bibliotecas necessarias pro projeto:
+
+    npm install express bcrypt jsonwebtoken cors dotenv postgres
